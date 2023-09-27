@@ -1,0 +1,13 @@
+package Inheritence;
+
+public class carClass {
+	
+	public final void test1()
+	{
+		System.out.println("Final Method1");
+	}
+	public final void test1(String str)
+	{
+		System.out.println("Final Method1");
+	}
+}
