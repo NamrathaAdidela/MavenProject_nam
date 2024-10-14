@@ -3,7 +3,14 @@ package datatypestraining;
 public class NonPrimitiveDT {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		//********
+		
+		// Non Primitive datatype creates object 
+		//EX: Array, String , Classes, interface -- oop
+		
+		//********
+		
 		//int r = 10;
 		
 			//	System.out.println(r);
@@ -28,6 +35,8 @@ public class NonPrimitiveDT {
 				{
 					System.out.println(i);
 				}
+				
+				
 				
 	}
 
